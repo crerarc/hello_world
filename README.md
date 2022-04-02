@@ -1,40 +1,28 @@
-# hello_world: By way of introduction...
+# hello_world
 
-As a child, I loved building stuff with lego - not just the things they put on the side of the box, but bending the use of the multicoloured bricks to whatever my imagination led me to build and have adventures with. The outside is now older, but that same developmental wonder remains. I was formally educated as an engineer but am perhaps now more enthtralled by application development and data science. 
+## A brief introduction
+Formally educated as an engineer, with experience in research, defence (naval platforms), and energy (oil and gas, nuclear, and renewables) sectors. Currently, developing and applying data science skills.
 
-## From there to here
+After Uni. I worked on research into the environmental degradation of structural materials, and then, at a different institution, the performance of structural elements under fire conditions. My final university based research was the development of numerical modelling based optimization methods to  produce optimal structural forms. This work was the basis for numerous papers, further research funding, and practically, the significantly improving a key component of an industrial product.
 
-### Academia
-> After Uni. I starting out researching into the environmental degredation of structural materials. I then moved to another uni. to look at the performance of structural elements under fire conditions. I then took my final academic step to another uni. to research and develop optimization methods for numerical models in order to find structural forms that most suited the prevailing conditions. This work went on to produce numerous papers, support funding for further research work, and practically, significantly improved a manufactured product, prompting a redevelopment of the whole product family.
+Leaving academia, I worked in the defence research sector, doing various numerical and statistical modelling, database development, software development, primarily to model and understand the behaviour of naval, and occasionally civil, platform performance under operational conditions. This work developed various novel approaches and involved presenting widely.
 
-### Defence
-> After leaving academia I worked in the defence research sector, doing various numerical modelling, statistical modelling, database development, software development, to analyse naval platfroms in general and submarines in particular. I worked with a great bunch of people and was lucky enough to work on a wide range of very interesting projects, some of which were not necessarily concerned with naval platforms.
+I was subsequently presented with an opportunity (I found difficult to refuse) to work in the energy sector. This work was mostly related to doing the same type of modelling, analysis and development work, but in the context of assessing the structural integrity of, primarily, offshore oil and gas facilities, as well as nuclear and renewable energy components.
 
-### Energy
-> Presented with an opportunity I found difficult to refuse, I left Defence to work in the Energy sector. This work was mostly related to doing the same modelling and analysis work, but in the context of determining the structural integrity of offshore oil and gas facilities, and, to a lesser extent, nuclear and renewable energy components.
+A sharp downturn in oil price in the mid 2010s led to redundancy and looking for something new. Using and developing computational methods to derive meaning is at the core of what I do, and, being curiosity driven, it is enthralling to apply existing, and new, skills to find answers in the broadly defined area of Data Science.
 
-### Data, data, everywhere
-> A sharp downturn in oil price in the mid 2010s led to redundancy and new horizons. Much of what I'd been doing previously involved coding to arrange data into a useable form, using linear algebra and various mathematical techniques to build and analyse numerical and statistical models, and producing clear and effective reports and presentations based upon findings from the modelling work. Coupled with a natural curiosity for things, I started to investigate how to build upon these skills and transfer them into, what is broadly known as, Data Science.
-
-## Skills, what skills?
-> I've an open and curiosity driven mindset and a "joy in finding things out". This, I think is my core skill, every other skill stems from this. I also like to communicate well - to clearly convey information and meaning.
->
-> I'm not going to list every skill I think I have. The ones related to numerical modelling are a bit niche, office type software skills go without saying, and I'm pretty sure no one is that interested in what a great guitarist I am! So - though every day's a school day - the following is a shortish list of the computing related skills I'm still developing, with observations.
-
-
+## Key developer & data skills
 | Skill | Typical use | Notes |
 |-------|----------------------|-------|
 | Python | App building, scripting, Data munging and analysis| I've used Python and many of it's libraries (e.g., pyqt, scikit-learn, scipy, numpy, pandas, pilow, plotly, matplotlib, etc.) in many different stand alone and back-end (with flask & django) applications for a long time. What it doesn't have on the execution time, it more than makes up for in terms of the available libraries and ease of use. |
-| C | Application Development | It's still in popular active use for a reason! I learnt (looking back, poorly) C building a viewer for a novel, low-cost infra-red camera. Since, I've endeavoured to take my C skills to a higher level. |
+| SQL | All things RDMS | Mostly MySQL and SQLite using Workbench and Studio respectively, or writing directly. |
+| C | Application Development | It's still popular and in active use for a reason! I learnt (looking back, poorly) C building a viewer for a novel, low-cost infra-red camera. Since, I've endeavoured to take my C skills to a higher level. |
 | Java | Application Development | I started developing apps in Java out of expediency, as it was the quickest and most effective way to build a cross-platform, GUI based analysis / design tool at the time.  I'd done some C++, but Java was really my first venture into OOP. Java can be a bit ungainly and Python has encroached into many areas where I'd once have used Java, but I still use it. |
 | HTML/ CSS/ JS | Many Front-End developments | I started out building web pages to show-case my research when web-pages were just HTML. I've built many pages/sites since, for myself, organisations, and others, either from scratch or using an existing frameworks (bootstrap), and including (or not) JS functionality |
 | Fortran | Numerical Modelling Software | Easily derided as an old sequential code, but still one of the fastest compiled codes for solving large numerical problems |
-| Go | Learning, for web/ CLI development | 'C', but better :-) It feels cleaner to write, it's libraries are maybe not what C's are, but they're getting better all the time, and memory management is much  |
-| Kotlin | Learning, for Android development | Java, but much better :-). Any language that declares it's functions as 'fun' can't be bad! |
+| Go | Learning, for web/ CLI development | Learning out of interest - on the face of things, memory management better than C and it's cleaner to write than Java. |
+| Kotlin | Learning, for Android development | Learning for Mobile App development, out of interest. Much cleaner than Java, and any language that declares functions as 'fun' can't be bad! |
 | IDE/ Editors | Coding/ Scripting | Key tools: Vi (esoteric but essential), VSCode (not a big fan of Microsoft, but love this), Code::Blocks, Netbeans. I use Anaconda/ Conda environment for it's libraries, but develop more in VSCode than Spyder, and Colab more than Jupyter notebooks. And if you use notebooks, you use Markdown, LaTex and html |
-| Operating Systems | Linux, preferably, Windows if I have to | Used to work on SunOS/HP-UX systems until Linux came along. My liking for MS Windows environment is inversely proportional to the time I've been using them... and I've been using them for a good long while! Very familiar with both types of operating system and with shell scripting in either. |
+| Operating Systems | Preferably Linux; Windows if I have to | Used to work on SunOS/HP-UX systems until Linux (many distros) came along. My liking of MS Windows environments is inversely proportional to the time I've spent using them... and I've been using them for a good long while! Very familiar with both types of operating system and with shell scripting in either. |
+| Communication/ Presentation | Team effectivness, Written Work, Internal and External presentation. | Maybe a truism to say that effective communication is essential to achieving anything, but I've seen the damage of it done badly, and the uplift from it being done well. A skill learned by observation and in hindsight. |
 
-> Maybe worth pointing out that, other than a C++ course I did as a post-grad, my only formal Computer Science training is Harvard's CS50 course - which I can't praise highly enough. It really is truly excellent, and a gift to all those in the world wanting a grounding in the modern world of computer science.
-
-## What now?
-> Buiding numerical models, algorithms and applications has long since replaced building with lego bricks - but I get the same sense of joy and putting the right pieces together any sort of computer to build useful and interesting things.
